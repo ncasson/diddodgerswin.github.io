@@ -1,0 +1,19 @@
+        p{
+            text-align:center;
+            margin-top:15%;
+            font-family: Arial, sans-serif;
+        }
+		p.yes{
+            font-size:120pt;
+            font-weight: bold;
+            color: green;
+        }
+
+        p.no{
+            font-size:120pt;
+            font-weight: bold;
+            color: red;
+        }
+		a.yes {
+			text-align: center;
+		}
